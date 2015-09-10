@@ -1,0 +1,8 @@
+Package: com.imokhles.vnopenin
+Name: VNOpenIN
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.0rc
+Architecture: iphoneos-arm
+Description: Share/Save Vine Videos
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
